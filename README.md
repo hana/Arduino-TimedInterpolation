@@ -1,5 +1,6 @@
 # TimedInterpolation
-Time-based interpolation library for Arudino.
+Time-based interpolation library for Arudino.  
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 ## Usage
 ```
@@ -17,6 +18,3 @@ interpolation.begin()
 
 ## Requirements
 - None
-
-## License
-- [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
