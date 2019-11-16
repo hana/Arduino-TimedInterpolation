@@ -1,0 +1,7 @@
+TimedInterpolation	KEYWORD1
+begin	KEYWORD2
+get	KEYWORD2
+getElapsedTime	KEYWORD2
+getElapsedTimeSec	KEYWORD2
+setDuration	KEYWORD2
+NO_CAP_INTERPOLATION	LITERAL1
