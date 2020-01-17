@@ -5,9 +5,9 @@
 class TimedInterpolation {
 public:
     TimedInterpolation() {
-    unsigned long beginTime = 0;
-    unsigned long endTime = 1000;
-    unsigned long duration = 1000;
+        unsigned long beginTime = 0;
+        unsigned long endTime = 1000;
+        unsigned long duration = 1000;
     }
 
     inline void setDuration(const unsigned long ms) {
